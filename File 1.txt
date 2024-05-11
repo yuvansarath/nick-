@@ -1,1 +1,2 @@
 This is file 1,I want to push to github
+i want update a new code
